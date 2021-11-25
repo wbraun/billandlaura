@@ -31,7 +31,13 @@
 .font_4 {
   font-family: FuturaLT-Light;
 }
-
+.font_5 {
+  font-size:16px; 
+  line-height:1.6em; 
+  color:#DBDBDB; 
+  font-family:FuturaLT-Light,sans-serif; 
+  letter-spacing:0.02em
+}
 
 /*--------------------------------------------------------------
 # General
@@ -987,7 +993,7 @@ section {
 }
 .team .member .member-info {
   position: absolute;
-  top: 85%;
+  top: 65%;
   left: 20px;
   right: 20px;
   background: #fff;
